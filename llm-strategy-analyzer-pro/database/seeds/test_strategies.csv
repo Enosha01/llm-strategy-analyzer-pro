@@ -1,0 +1,5 @@
+id,description,category,created_at
+1,"Buy when RSI < 30","stock","2024-01-01 09:00:00"
+2,"Sell when MACD crosses","stock","2024-01-01 09:05:00"
+3,"ETH/Polygon MEV Arbitrage","crypto","2024-01-01 09:10:00"
+4,"Volume Spike Detection","crypto","2024-01-01 09:15:00"

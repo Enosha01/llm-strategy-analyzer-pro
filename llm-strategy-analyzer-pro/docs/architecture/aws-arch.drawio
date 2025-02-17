@@ -1,0 +1,16 @@
+<mxfile>
+  <diagram name="AWS Architecture">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="2" value="EC2 Spot Fleet" style="shape=cloud" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="120" height="80"/>
+        </mxCell>
+        <mxCell id="3" value="RDS PostgreSQL" style="shape=cylinder" vertex="1" parent="1">
+          <mxGeometry x="320" y="180" width="100" height="120"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
